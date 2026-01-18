@@ -5,6 +5,12 @@ This project focuses on creating a structured and scalable data warehouse using 
 
 ---
 
+## Data Architecture
+
+<img width="657" height="432" alt="Architecture" src="https://github.com/user-attachments/assets/0d4326ae-4a8c-4f8d-aeed-18d19b44e14a" />
+
+---
+
 ## Project Requirements 
 
 ## Objective
